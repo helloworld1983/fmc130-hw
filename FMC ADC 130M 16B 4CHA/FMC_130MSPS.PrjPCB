@@ -29,6 +29,7 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
 
 [Document1]
 DocumentPath=FMC_130MSPS_4CH.SchDoc
@@ -63,22 +64,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document3]
-DocumentPath=ADC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document4]
 DocumentPath=Clock_circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +79,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=EEPROM_Temp_LEDs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +95,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=FMC connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,7 +111,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document6]
 DocumentPath=fmclib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +127,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document7]
 DocumentPath=power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +143,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document8]
 DocumentPath=FMCLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,23 +159,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
-DocumentPath=FMC connector.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document11]
+[Document9]
 DocumentPath=Triggers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +175,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document10]
 DocumentPath=ADC130MSPS-V1-01.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,160 +191,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document11]
+DocumentPath=ADC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=FMC connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.G1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.G2
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GP4
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=ADC130MSPS-V1-0.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for FMC_130MSPS\ADC130MSPS-V1-0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for FMC_130MSPS\Design Rule Check - ADC130MSPS-V1-0.html
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for FMC_130MSPS\Design Rule Check - ADC130MSPS-V1-01.html
+DocumentPath=ADC130MSPS-V1-01.PcbDoc.htm
 DItemRevisionGUID=
 
 [PCBConfiguration1]
@@ -388,7 +237,7 @@ GenerateBOM=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -519,7 +368,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -540,7 +389,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -644,11 +493,17 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType18=PCBLIB Print
+OutputName18=PCBLIB Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -670,7 +525,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ODB
 OutputName1=ODB++ Files
@@ -728,7 +583,7 @@ Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -765,7 +620,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -945,7 +800,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -974,13 +829,28 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Office Document Image Writer
+TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf PCB
+OutputName2=AutoCAD dwg/dxf File PCB
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf Schematic
+OutputName3=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportIDF
+OutputName4=Export IDF
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
 
 [Modification Levels]
 Type1=1
