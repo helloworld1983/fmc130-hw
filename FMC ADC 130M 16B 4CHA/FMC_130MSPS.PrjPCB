@@ -275,6 +275,10 @@ GenerateClassCluster=0
 DocumentPath=ADC130MSPS-V1-01.PcbDoc.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FMC_130MSPS\Design Rule Check - ADC130MSPS-V1-01.html
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
