@@ -176,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=ADC130MSPS-V1-01.PcbDoc
+DocumentPath=FMC_ADC_130M_16B_4CH.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,6 +270,74 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+
+[ProjectVariant1]
+Description=passive clock
+AllowFabrication=0
+ParameterCount=0
+VariationCount=28
+Variation1=Designator=R66|UniqueId=\GNBNHIIS\SSAIDBUQ|Kind=1|AlternatePart= 
+Variation2=Designator=R70|UniqueId=\GNBNHIIS\ARCDWTSC|Kind=1|AlternatePart= 
+Variation3=Designator=R69|UniqueId=\GNBNHIIS\FYBWTIXP|Kind=1|AlternatePart= 
+Variation4=Designator=R71|UniqueId=\GNBNHIIS\WLURIACQ|Kind=1|AlternatePart= 
+Variation5=Designator=R63|UniqueId=\GNBNHIIS\DWAVQOKJ|Kind=1|AlternatePart= 
+Variation6=Designator=R68|UniqueId=\GNBNHIIS\TFLLFAKB|Kind=1|AlternatePart= 
+Variation7=Designator=R62|UniqueId=\GNBNHIIS\TXYNFPBD|Kind=1|AlternatePart= 
+Variation8=Designator=R67|UniqueId=\GNBNHIIS\AOTACCCE|Kind=1|AlternatePart= 
+Variation9=Designator=R51|UniqueId=\GNBNHIIS\DUOIMVDY|Kind=1|AlternatePart= 
+Variation10=Designator=R72|UniqueId=\GNBNHIIS\HREXXHYV|Kind=1|AlternatePart= 
+Variation11=Designator=R73|UniqueId=\GNBNHIIS\UTAMXWHR|Kind=1|AlternatePart= 
+Variation12=Designator=R11A|UniqueId=\NUVWCIKJ\HCLYFVGT|Kind=1|AlternatePart= 
+Variation13=Designator=R11B|UniqueId=\OFQCEUKJ\HCLYFVGT|Kind=1|AlternatePart= 
+Variation14=Designator=R11C|UniqueId=\SDFXBBIC\HCLYFVGT|Kind=1|AlternatePart= 
+Variation15=Designator=R11D|UniqueId=\TISDNEVD\HCLYFVGT|Kind=1|AlternatePart= 
+Variation16=Designator=C5D|UniqueId=\TISDNEVD\IBDYLVYG|Kind=1|AlternatePart= 
+Variation17=Designator=R82|UniqueId=\VGWMNHOK\ETEGRBJH|Kind=1|AlternatePart= 
+Variation18=Designator=R81|UniqueId=\VGWMNHOK\KLHXUAYR|Kind=1|AlternatePart= 
+Variation19=Designator=R83|UniqueId=\VGWMNHOK\WLNMARRO|Kind=1|AlternatePart= 
+Variation20=Designator=C5A|UniqueId=\NUVWCIKJ\IBDYLVYG|Kind=1|AlternatePart= 
+Variation21=Designator=C5B|UniqueId=\OFQCEUKJ\IBDYLVYG|Kind=1|AlternatePart= 
+Variation22=Designator=C5C|UniqueId=\SDFXBBIC\IBDYLVYG|Kind=1|AlternatePart= 
+Variation23=Designator=L8|UniqueId=\GNBNHIIS\CJKDCEYP|Kind=1|AlternatePart= 
+Variation24=Designator=L5|UniqueId=\GNBNHIIS\SJPYHLAH|Kind=1|AlternatePart= 
+Variation25=Designator=TR1A|UniqueId=\NUVWCIKJ\XCYBNEUH|Kind=1|AlternatePart= 
+Variation26=Designator=TR1B|UniqueId=\OFQCEUKJ\XCYBNEUH|Kind=1|AlternatePart= 
+Variation27=Designator=TR1C|UniqueId=\SDFXBBIC\XCYBNEUH|Kind=1|AlternatePart= 
+Variation28=Designator=TR1D|UniqueId=\TISDNEVD\XCYBNEUH|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+Description=active clock
+AllowFabrication=0
+ParameterCount=0
+VariationCount=26
+Variation1=Designator=R33|UniqueId=\GNBNHIIS\NQRNHVQC|Kind=1|AlternatePart= 
+Variation2=Designator=R41|UniqueId=\GNBNHIIS\YDBHPAHK|Kind=1|AlternatePart= 
+Variation3=Designator=R56|UniqueId=\GNBNHIIS\TRTPGIYS|Kind=1|AlternatePart= 
+Variation4=Designator=R57|UniqueId=\GNBNHIIS\BIQAHSFD|Kind=1|AlternatePart= 
+Variation5=Designator=R58|UniqueId=\GNBNHIIS\NTSDRJSO|Kind=1|AlternatePart= 
+Variation6=Designator=R59|UniqueId=\GNBNHIIS\BLHYRBVM|Kind=1|AlternatePart= 
+Variation7=Designator=R60|UniqueId=\GNBNHIIS\IWHHVJHK|Kind=1|AlternatePart= 
+Variation8=Designator=R61|UniqueId=\GNBNHIIS\JWMFVGHC|Kind=1|AlternatePart= 
+Variation9=Designator=C40|UniqueId=\GNBNHIIS\JFGPBFBT|Kind=1|AlternatePart= 
+Variation10=Designator=R24|UniqueId=\GNBNHIIS\HGKUOECF|Kind=1|AlternatePart= 
+Variation11=Designator=R83|UniqueId=\VGWMNHOK\WLNMARRO|Kind=1|AlternatePart= 
+Variation12=Designator=R82|UniqueId=\VGWMNHOK\ETEGRBJH|Kind=1|AlternatePart= 
+Variation13=Designator=R81|UniqueId=\VGWMNHOK\KLHXUAYR|Kind=1|AlternatePart= 
+Variation14=Designator=R11A|UniqueId=\NUVWCIKJ\HCLYFVGT|Kind=1|AlternatePart= 
+Variation15=Designator=R11B|UniqueId=\OFQCEUKJ\HCLYFVGT|Kind=1|AlternatePart= 
+Variation16=Designator=R11C|UniqueId=\SDFXBBIC\HCLYFVGT|Kind=1|AlternatePart= 
+Variation17=Designator=R11D|UniqueId=\TISDNEVD\HCLYFVGT|Kind=1|AlternatePart= 
+Variation18=Designator=C5A|UniqueId=\NUVWCIKJ\IBDYLVYG|Kind=1|AlternatePart= 
+Variation19=Designator=C5B|UniqueId=\OFQCEUKJ\IBDYLVYG|Kind=1|AlternatePart= 
+Variation20=Designator=C5C|UniqueId=\SDFXBBIC\IBDYLVYG|Kind=1|AlternatePart= 
+Variation21=Designator=C5D|UniqueId=\TISDNEVD\IBDYLVYG|Kind=1|AlternatePart= 
+Variation22=Designator=L1A|UniqueId=\NUVWCIKJ\XQNGTBOY|Kind=0|AlternatePart= 
+Variation23=Designator=TR1A|UniqueId=\NUVWCIKJ\XCYBNEUH|Kind=1|AlternatePart= 
+Variation24=Designator=TR1B|UniqueId=\OFQCEUKJ\XCYBNEUH|Kind=1|AlternatePart= 
+Variation25=Designator=TR1C|UniqueId=\SDFXBBIC\XCYBNEUH|Kind=1|AlternatePart= 
+Variation26=Designator=TR1D|UniqueId=\TISDNEVD\XCYBNEUH|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=ADC130MSPS-V1-01.PcbDoc.htm
@@ -447,110 +515,110 @@ Name=Documentation Outputs
 Description=
 TargetPrinter=Bullzip PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Assembler Source Print
-OutputName1=Assembler Source Prints
+OutputType1=Composite
+OutputName1=Composite Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType2=C Source Print
-OutputName2=C Source Prints
+OutputType2=Logic Analyser Print
+OutputName2=Logic Analyser Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType3=C/C++ Header Print
-OutputName3=C/C++ Header Prints
+OutputType3=OpenBus Print
+OutputName3=OpenBus Prints
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType4=C++ Source Print
-OutputName4=C++ Source Prints
+OutputType4=PCB 3D Print
+OutputName4=PCB 3D Print
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType5=Composite
-OutputName5=Composite Drawing
+OutputType5=PCB Print
+OutputName5=PCB Prints
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType6=Logic Analyser Print
-OutputName6=Logic Analyser Prints
+OutputType6=Schematic Print
+OutputName6=Schematic Prints
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType7=OpenBus Print
-OutputName7=OpenBus Prints
+OutputType7=SimView Print
+OutputName7=SimView Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType8=PCB 3D Print
-OutputName8=PCB 3D Print
+OutputType8=Wave Print
+OutputName8=Wave Prints
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType9=PCB 3D Video
-OutputName9=PCB 3D Video
+OutputType9=WaveSim Print
+OutputName9=WaveSim Prints
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType10=PCB Print
-OutputName10=PCB Prints
+OutputType10=Assembler Source Print
+OutputName10=Assembler Source Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType11=Report Print
-OutputName11=Report Prints
+OutputType11=C Source Print
+OutputName11=C Source Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType12=Schematic Print
-OutputName12=Schematic Prints
+OutputType12=C/C++ Header Print
+OutputName12=C/C++ Header Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType13=SimView Print
-OutputName13=SimView Prints
+OutputType13=C++ Source Print
+OutputName13=C++ Source Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType14=Software Platform Print
-OutputName14=Software Platform Prints
+OutputType14=PCB 3D Video
+OutputName14=PCB 3D Video
 OutputDocumentPath14=
-OutputVariantName14=
+OutputVariantName14=[No Variations]
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType15=VHDL Print
-OutputName15=VHDL Prints
+OutputType15=PCBLIB Print
+OutputName15=PCBLIB Prints
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType16=Wave Print
-OutputName16=Wave Prints
+OutputType16=Report Print
+OutputName16=Report Prints
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
 PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType17=WaveSim Print
-OutputName17=WaveSim Prints
+OutputType17=Software Platform Print
+OutputName17=Software Platform Prints
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType18=PCBLIB Print
-OutputName18=PCBLIB Prints
+OutputType18=VHDL Print
+OutputName18=VHDL Prints
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
@@ -856,7 +924,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Brother DCP-J315W Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -864,14 +932,14 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType2=Differences Report
-OutputName2=Differences Report
+OutputType2=Electrical Rules Check
+OutputName2=Electrical Rules Check
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType3=Electrical Rules Check
-OutputName3=Electrical Rules Check
+OutputType3=Differences Report
+OutputName3=Differences Report
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -885,27 +953,27 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Brother DCP-J315W Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=ExportSTEP
-OutputName1=Export STEP
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf PCB
-OutputName2=AutoCAD dwg/dxf File PCB
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=AutoCAD dwg/dxf Schematic
-OutputName3=AutoCAD dwg/dxf File Schematic
+OutputType3=ExportIDF
+OutputName3=Export IDF
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=ExportIDF
-OutputName4=Export IDF
+OutputType4=ExportSTEP
+OutputName4=Export STEP
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 
 [Modification Levels]
